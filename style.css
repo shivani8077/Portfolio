@@ -1,6 +1,16 @@
-a{
+body {
+    background-image: url("bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+    position: relative;
+}
+
+a {
     text-decoration: none !important;
 }
+
 .hero {
     display: flex;
     align-items: center;
@@ -8,12 +18,7 @@ a{
     /* background-color: #f0f0f0; */
     padding: 40px;
     gap: 5%;
-    background-image: url("bg4.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow-x: hidden;
-    position: relative;
+
     color: aliceblue;
 }
 
@@ -76,4 +81,28 @@ a{
     height: 100%;
     object-fit: cover;
     /* Ensure the image covers the container */
+}
+
+.proj {
+    display: flex;
+    align-items: left;
+    justify-content: space-around;
+    /* background-color: #f0f0f0; */
+    padding: 40px;
+    gap: 5%;
+    color: aliceblue;
+}
+.proj-content {
+    max-width: 700px;
+}
+
+.proj-content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.proj-content p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 30px;
 }
