@@ -41,6 +41,3 @@ A real-time spam detection web app using Machine Learning.
 🔗 [GitHub Repository](https://github.com/shivani8077/spam-mail-classification)  
 🌐 [Live App](https://spamemailclassifictionapp-1.streamlit.app/)
 
----
-
-> Thank you for visiting my portfolio! Feel free to explore my projects or reach out for collaboration or opportunities.
