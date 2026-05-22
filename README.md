@@ -13,7 +13,7 @@ I’m passionate about crafting seamless, responsive user experiences and have g
 
 Currently, I’m looking for **full-time opportunities** in **Web Development** or **Data Analytics**, where I can bring creativity, problem-solving, and technical skills to impactful projects.
 
-📄 [**Resume Download**](https://drive.google.com/file/d/1LeHn67D060BMAuSSP9PLPBMCsSGKwMIn/view?usp)
+📄 [**Resume Download**](https://drive.google.com/file/d/1qGfGzglRxIYVKaiK0Nj1IgPdqOhjyQZX/view?usp=sharing)
 
 ---
 
